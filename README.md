@@ -1,12 +1,12 @@
-# CRUD de Produtos em C#
+# CRUD de Produtos em C# :desktop_computer:
 
 Este é um exemplo simples de um programa C# que implementa operações CRUD (Create, Read, Update, Delete) para o cadastro de produtos. Você pode executar este programa usando o .NET CLI (dotnet).
 
-## Pré-requisitos
+## Pré-requisitos :books:
 
 Certifique-se de ter o .NET SDK instalado no seu sistema.
 
-## Executando o Programa
+## Executando o Programa :cd:
 
 1. Clone este repositório para o seu computador:
 
